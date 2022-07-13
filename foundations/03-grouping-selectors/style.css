@@ -1,0 +1,17 @@
+/* ---------- BTN CLICK ME AND BTN NO CLICK ME ---------- */
+.btn-c-m,
+.btn-n-c-m {
+  font-size: 28px;
+  font-style: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* ---------- BTN CLICK ME ----------  */
+.btn-c-m {
+  background-color: #000;
+  color: #fff;
+}
+
+/* ---------- BTN NO, CLICK ME ---------- */
+.btn-n-c-m {
+  background-color: rgb(255, 255, 0);
+}
